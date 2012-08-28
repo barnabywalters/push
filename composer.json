@@ -1,0 +1,11 @@
+{
+    "name": "indieweb/push",
+    "type": "library",
+    "description": "A set of classes for dealing with Pubsubhubbub feeds",
+    "keywords": ["push", "pubsubhubbub", "feed", "publish", "indieweb", "ostatus"],
+    "autoload": {
+        "psr-0": {
+            "PuSH": ""
+        }
+    }
+}
