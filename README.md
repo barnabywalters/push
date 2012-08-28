@@ -1,4 +1,8 @@
-push_publisher
+push
 ==============
 
-A composer-enabled fork of Josh Fraser's PHP Pubsubhubbub publishing client
+A composer-enabled package containing various PHP classes for using Pubsubhubbub.
+
+Current contents:
+
+* Josh Fraser's PHP PuSH publishing client
