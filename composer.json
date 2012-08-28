@@ -5,7 +5,7 @@
     "keywords": ["push", "pubsubhubbub", "feed", "publish", "indieweb", "ostatus"],
     "autoload": {
         "psr-0": {
-            "PuSH": ""
+            "indieweb\\PuSH": ""
         }
     }
 }
