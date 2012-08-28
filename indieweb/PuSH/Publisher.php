@@ -5,7 +5,7 @@
 // written by Josh Fraser | joshfraser.com | josh@eventvue.com
 // Released under Apache License 2.0
 
-namespace barnabywalters\Push;
+namespace indieweb\Push;
 
 use \Exception;
 
